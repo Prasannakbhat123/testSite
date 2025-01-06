@@ -1,8 +1,8 @@
 import React from 'react'
-import Navbar from './components/Navbar'
-import HeroSection from './components/HeroSection'
-import About from './components/About'
-import Footer from './components/footer'
+import Navbar from './components/Navbar.jsx'
+import HeroSection from './components/HeroSection.jsx'
+import About from './components/About.jsx'
+import Footer from './components/Footer.jsx'
 
 const App = () => {
   return (
